@@ -1,12 +1,12 @@
 # Contribution Guide
 
-## Intro
+### Intro
 
 Unlike most contribtion guides this one is not about THIS repo! It's about how you can contribute in general to the Backbase Open Source Community.
 
 Our goal at backbase is allow everyone to share and benefit plus accelerate from our community of engineers. You can read more about our principles and culture of inner sourcing at our [engineering blog] (https://engineering.backbase.com/principles/). That's about how we work within Backbase, but these principles translate to how as much as posible we would like to share openly and use our Backbase Github as the one place you can find open source code.
 
-## Topics
+### Topics
 
 * Repos Naming conventions and standards
 * Licence agreements and support
@@ -20,15 +20,20 @@ We have many repo's that indend to solve a vast varety of problems from solution
 
 ### Community Product Extentions
 
-Are repo that are to be reused across multiple projects to accellerate the customer but are not offically supported by Backbase. It is possible this extentions will be adopted in to offical support in the future and thus made compliant with Backbase standards. But as a community edition any customer is free to take as is or customise to fit thier needs. These extensions can be of various pouposes some of which we categories:
+Are repo that are to be reused across multiple projects to accellerate the customer but are not offically supported by Backbase. It is possible this extentions will be adopted in to offical support in the future and thus made compliant with Backbase standards. But as a community edition any customer is free to take as is or customise to fit thier needs. Often extention work with API's of the Engagment Banking platofrm and as such are compatible with certain version. These extensions can be of various pouposes some of which we categories:
 
-* Community Connector?? - e.g. **twillio-commnity-connector**
-* Community Journey?? - e.g. **share-payment-qr-code-community-journey**
-* Community Integration?? - e.g. **mambu-core-community-integrtion**
+* Community Connector?? - <fintech-name>-commnity-connector e.g. **twillio-commnity-connector**
+* Community Journey?? -  <journey-name>-community-journey e.g. **share-payment-qr-code-community-journey**
+* Community Integration?? - <integration-name>-community-integrtion e.g. **mambu-core-community-integrtion**
 
 ### Open Source Projects
 
-Are tools and services that are often intially built by Backbase R&D or Customer Success but can also be on project where they not an extention to the platofrm but would be used in projects often as a technology to solve a problem and improve the
+Are samples, tools and services that are often intially built by Backbase R&D or Customer Success but can also be on project. They are they not an extention to the platform but would be used in projects often as a technology or accelerator to solve a problem and improve the developer experaince. Such repos are often not bound to a single version of thier Engaement Banking Platform and have an independant Semver version to the EBP. Some examples:
+
+* Tools - stream-services, backbase-openapi-tools, bb-fuel, backbase-services-toolkit, generator-springboot, variants
+* Examples and samples - Golden Samples App, Golden Sample Servive, documentation-code-samples, WhatsNewJourney 
+*   
+
 
 
 
