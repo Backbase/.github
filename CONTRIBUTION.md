@@ -62,4 +62,4 @@ Open Source Product will be licenced with a diferent agreement.
 All repo's with the Backbase public space are public and as such are lead by the community. The more active the repo the more systme critical and as such Backbase will invest from time to time effort to ensure these repo are following best practices. All project should not be considered to be maitained and up to date in regarads to having enough security testing or other non functionals sych as resilliance or perfomnce. It will be the responcibility of the project to ensure these are satificatory and these repo meeting the projects needs.
 
 ## Contacts
-If you have any questions or would like to add you repo to the Backbase Open Source organisation you can contact us at [NEEDS Checking]oss@backbase.com OR if you are part of Backbase you can use or slack channel #backbase-github
+If you have any questions or would like to add you repo to the Backbase Open Source organisation you can contact us at oss@backbase.com OR if you are part of Backbase you can use our slack channel #backbase-github
