@@ -1,0 +1,12 @@
+{
+  "name": "Backbase Maven Verify Workflow",
+  "description": "Maven verify workflow for verifying an opensource service.",
+  "iconName": "backbase",
+  "categories": [
+    "Java"
+  ],
+  "filePatterns": [
+    "pom.xml$",
+    ".*\\.md$"
+  ]
+}
