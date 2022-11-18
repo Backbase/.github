@@ -1,0 +1,12 @@
+{
+  "name": "Backbase Maven Docker Release Workflow",
+  "description": "Maven docker release workflow for opensource services based on JIB",
+  "iconName": "backbase",
+  "categories": [
+    "Java"
+  ],
+  "filePatterns": [
+    "pom.xml$",
+    ".*\\.md$"
+  ]
+}
