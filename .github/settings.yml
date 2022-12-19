@@ -61,7 +61,7 @@ repository:
 labels:
   - name: bug
     color: CC0000
-    description: An issue with the system 🐛.
+    description: An issue with the system.
 
   - name: feature
     # If including a `#`, make sure to wrap it with quotes!
@@ -72,16 +72,16 @@ labels:
     # Provide a new name to rename an existing label
     new_name: ideal-for-contribution
 
-# Milestones: define milestones for Issues and Pull Requests
-#milestones:
-#  - title: milestone-title
-#    description: milestone-description
+    # Milestones: define milestones for Issues and Pull Requests
+    #milestones:
+    #  - title: milestone-title
+    #    description: milestone-description
     # The state of the milestone. Either `open` or `closed`
 #    state: open
 
 # Collaborators: give specific users access to this repository.
 # See https://docs.github.com/en/rest/reference/repos#add-a-repository-collaborator for available options
-collaborators:
+#collaborators:
 # - username: ex0b1t
 #   permission: admin
 # - username: hubot
@@ -97,12 +97,12 @@ collaborators:
 
 # See https://docs.github.com/en/rest/reference/teams#add-or-update-team-repository-permissions for available options
 teams:
-    # The permission to grant the team. Can be one of:
-    # * `pull` - can pull, but not push to or administer this repository.
-    # * `push` - can pull and push, but not administer this repository.
-    # * `admin` - can pull, push and administer this repository.
-    # * `maintain` - Recommended for project managers who need to manage the repository without access to sensitive or destructive actions.
-    # * `triage` - Recommended for contributors who need to proactively manage issues and pull requests without write access.
+  # The permission to grant the team. Can be one of:
+  # * `pull` - can pull, but not push to or administer this repository.
+  # * `push` - can pull and push, but not administer this repository.
+  # * `admin` - can pull, push and administer this repository.
+  # * `maintain` - Recommended for project managers who need to manage the repository without access to sensitive or destructive actions.
+  # * `triage` - Recommended for contributors who need to proactively manage issues and pull requests without write access.
   - name: rnd
     permission: pull
   - name: backend-leadership
@@ -127,7 +127,7 @@ branches:
           teams: []
       # Required. Require status checks to pass before merging. Set to null to disable
       required_status_checks:
-        # Required. Require branches to be up to date before merging.
+        # Required. Require branches to be up to date before merging
         strict: true
         # Required. The list of status checks to require in order to merge into this branch
         contexts: []
