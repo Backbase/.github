@@ -2,6 +2,6 @@
 
 Welcome to Backbase Open Source organisation. Regardless if you are a customer, partner, or employee you can create and share with everyone in the Backbase Community via this organisation.
 
-You'll find repo's here directly maintained by our Backbase teams and essential tools used as part of our developer experience. See [learn.backbase.com](https://learn.backbase.com) to pick up a course on our best practices and [developer.backbase.com](https://developer.backbase.com/) to see the official developer documentation.
+You'll find repo's here directly maintained by our Backbase teams and essential tools used as part of our developer experience. See [backbase.io/learning](https://backbase.io/learning/) to pick up a course on our best practices and [backbase.io/developers](https://backbase.io/developers/) to see the official developer documentation.
 
 You'll also find community created connections to 3rd parties and accelerators shared by projects that can be used to speed up projects, these are not supported by Backbase's official SLA but by the community. For more info see our [github organisation contribution guidelines](https://github.com/Backbase/.github/blob/main/CONTRIBUTING.md)
